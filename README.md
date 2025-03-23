@@ -64,8 +64,7 @@ SMaster integrates multiple technologies:
 - **Node.js & Express** for backend management.
 - **Flask & Mediapipe** for real-time sign detection.
 - **MongoDB** for storing user data and courses.
-- **MQTT/WebSockets** (if applicable) for real-time communication.
-
+  
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
