@@ -17,43 +17,43 @@ This repository serves as an overview and does not contain the actual code. Clon
 
 ```sh
 # Clone all components manually
-git clone <admin_client_repo_url>
-git clone <ml_flask_server_repo_url>
-git clone <node_server_repo_url>
-git clone <react_native_app_repo_url>
+git clone https://github.com/studentofmusk/SMaster-APP
+git clone https://github.com/studentofmusk/SMaster-ADMIN
+git clone https://github.com/studentofmusk/SMaster-SERVER
+git clone https://github.com/studentofmusk/SMaster-ML-SERVER
 ```
 
 Alternatively, if using **Git submodules**, initialize all repositories with:
 
 ```sh
-git clone --recurse-submodules <main_repo_url>
+git clone --recurse-submodules https://github.com/studentofmusk/SMaster
 ```
 
 ### Running Each Component
 #### **Admin Client** (React Web App)
 ```sh
-cd admin-client
+cd SMaster-ADMIN
 npm install
 npm start
 ```
 
 #### **ML Flask Server**
 ```sh
-cd ml-flask-server
+cd SMaster-ML-SERVER
 pip install -r requirements.txt
 python app.py
 ```
 
 #### **Node.js Server**
 ```sh
-cd node-server
+cd SMaster-SERVER
 npm install
 npm start
 ```
 
 #### **React Native Application**
 ```sh
-cd react-native-app
+cd SMaster-APP
 npm install
 npx expo start
 ```
@@ -77,5 +77,5 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
-For any inquiries, reach out via GitHub issues or email at `your_email@example.com`.
+For any inquiries, reach out via GitHub issues or email at `farooqkhan07122003@gmail.com`.
 
