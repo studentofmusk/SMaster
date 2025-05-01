@@ -65,10 +65,8 @@ SMaster integrates multiple technologies:
 - **Flask & Mediapipe** for real-time sign detection.
 - **MongoDB** for storing user data and courses.
 
+
 ## Contributors
-
-Thanks to the following people for their contributions to SMaster:## Contributors
-
 Thanks to the amazing team behind SMaster:
 
 - [@studentofmusk](https://github.com/studentofmusk) — 🧠 Project Architect, Backend Developer (Node.js), ML Integration  
