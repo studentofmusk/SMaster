@@ -65,13 +65,6 @@ SMaster integrates multiple technologies:
 - **Flask & Mediapipe** for real-time sign detection.
 - **MongoDB** for storing user data and courses.
   
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-branch-name`).
-3. Commit your changes.
-4. Submit a pull request.
-
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
