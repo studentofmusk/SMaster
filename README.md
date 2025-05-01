@@ -64,6 +64,19 @@ SMaster integrates multiple technologies:
 - **Node.js & Express** for backend management.
 - **Flask & Mediapipe** for real-time sign detection.
 - **MongoDB** for storing user data and courses.
+
+## Contributors
+
+Thanks to the following people for their contributions to SMaster:## Contributors
+
+Thanks to the amazing team behind SMaster:
+
+- [@studentofmusk](https://github.com/studentofmusk) — 🧠 Project Architect, Backend Developer (Node.js), ML Integration  
+- [@Jasminecinthiya-5123](https://github.com/Jasminecinthiya-5123) — 🎨 UI/UX Designer, React Native Developer  
+- [@Kaviyarasi06](https://github.com/Kaviyarasi06) — 🤖 Machine Learning Engineer, Action Detection Model (Flask + Mediapipe)  
+- [@Jawahar047](https://github.com/Jawahar047) — 📊 Data Collection & Dataset Management  
+- [@Jasminecinthiya-5123](https://github.com/Jasminecinthiya-5123), [@Kaviyarasi06](https://github.com/Kaviyarasi06) — 📚 Course Content Curation & Testing  
+
   
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
