@@ -80,5 +80,5 @@ Thanks to the amazing team behind SMaster:
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
-For any inquiries, reach out via GitHub issues or email at `farooqkhan07122003@gmail.com`.
+For any inquiries, reach out via GitHub issues or email at `farooqvrofficial@gmail.com`.
 
