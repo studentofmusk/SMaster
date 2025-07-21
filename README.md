@@ -64,7 +64,7 @@ SMaster integrates multiple technologies:
 - **Node.js & Express** for backend management.
 - **Flask & Mediapipe** for real-time sign detection.
 - **MongoDB** for storing user data and courses.
-
+- **AWS S3** for storing raw data like course videos and thumbnail images.
 
 ## Contributors
 Thanks to the amazing team behind SMaster:
