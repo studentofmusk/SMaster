@@ -69,9 +69,9 @@ SMaster integrates multiple technologies:
 ## Contributors
 Thanks to the amazing team behind SMaster:
 
-- [@studentofmusk](https://github.com/studentofmusk) — 🧠 Project Architect, Backend Developer (Node.js), ML Integration  
-- [@Jasminecinthiya-5123](https://github.com/Jasminecinthiya-5123) — 🎨 UI/UX Designer, React Native Developer  
-- [@Kaviyarasi06](https://github.com/Kaviyarasi06) — 🤖 Machine Learning Engineer, Action Detection Model (Flask + Mediapipe)  
+- [@studentofmusk](https://github.com/studentofmusk) — 🧠 Project Architect, Full Stack Developer (MERN Stack), AI/ML Engineer,  React Native Developer.
+- [@Jasminecinthiya-5123](https://github.com/Jasminecinthiya-5123) — 🎨 UI/UX Designer.
+- [@Kaviyarasi06](https://github.com/Kaviyarasi06) — 🤖 Machine Learning Engineer, Action Detection Model (Flask + Mediapipe).  
 - [@Jawahar047](https://github.com/Jawahar047) — 📊 Data Collection & Dataset Management  
 - [@Jasminecinthiya-5123](https://github.com/Jasminecinthiya-5123), [@Kaviyarasi06](https://github.com/Kaviyarasi06) — 📚 Course Content Curation & Testing  
 
